@@ -139,3 +139,4 @@ if [[ -s $url/recon/hakrawler/recursive/raw/hakrawler_subs ]]; then
 else
         echo "[-] No subdomains to crawl, exiting..."
     
+fi
