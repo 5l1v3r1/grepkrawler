@@ -2,4 +2,6 @@
 
 recursively runs hakcrawler and greps out the different categories and outputs into their designated files.
 
-hakrawler and assetfinder required
+## Dependencies
+* hakrawler - https://github.com/hakluke/hakrawler
+* assetfinder - https://github.com/tomnomnom/assetfinder
